@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Fatima  Saidi
 
-🎓 Étudiante en L3 Informatique  
+🎓 Étudiante en Master MIAGE
 💡 Passionnée par le développement de solutions innovantes  
 📍 Basée à Paris, France
 
